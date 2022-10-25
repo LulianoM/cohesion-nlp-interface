@@ -1,3 +1,6 @@
 streamlit
 openai
 watchdog
+sklearn
+pandas
+spacy
