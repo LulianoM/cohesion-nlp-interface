@@ -4,3 +4,4 @@ watchdog
 sklearn
 pandas
 spacy
+xgboost
